@@ -1,4 +1,5 @@
-## TRANSCRIÇÃO DE ÁUDIO COM ARQUIVO
+## TRANSCRIÇÃO DE ÁUDIO COM ENTRADA POR ARQUIVO
+----
 
 1.  **Configuração do Ambiente e Instalações Básicas:**
     *   Python 3.7+
